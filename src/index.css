@@ -1,0 +1,17 @@
+
+
+@import "tailwindcss";
+.scrollbar-hide {
+  scrollbar-width: none; 
+}
+.border-upper{
+  border-top-left-radius: 7px;
+  border-top-right-radius: 7px;
+}
+.break-line {
+  white-space: pre-line;
+}
+.border-bottom-1{
+  border-bottom: 1px solid white;
+}
+
