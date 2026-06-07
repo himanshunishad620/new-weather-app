@@ -11,6 +11,8 @@ export default function WeatherProvider({ children }) {
     "Jan",
     "Feb",
     "Mar",
+    "Apr",
+    "May",
     "Jun",
     "Jul",
     "Aug",
